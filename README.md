@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Some repositories related to my PhD papers are private, and access can be provided upon request. 😀
+
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
