@@ -2,7 +2,7 @@
 
 Some repositories related to my Ph.D. papers are private, and access can be provided upon request. 😀
 
-## General Stats:
+## Languages:
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&theme=dark&layout=compact" width="355" />
 </p>
