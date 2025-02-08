@@ -2,6 +2,11 @@
 
 Some repositories related to my Ph.D. papers are private, and access can be provided upon request. 😀
 
+## General Stats:
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&theme=dark&layout=compact" width="355" />
+</p>
+
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
