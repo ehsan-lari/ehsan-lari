@@ -6,7 +6,7 @@ Some repositories related to my Ph.D. papers are private, and access can be prov
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&theme=dark&layout=compact&show_icons=true" width="355" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&layout=compact&show_icons=true" width="355" />
 </p>
 
 <!--
