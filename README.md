@@ -1,8 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-Some repositories related to my Ph.D. papers are private, and access can be provided upon request. 😀
+Some repositories related to my Ph.D. papers are private, and access can be provided upon request 😀
 
-## General Stats:
+## ⚙️ Tech Stack:
+
+![Bootstrap](https://img.shields.io/badge/MATLAB-e16737?style=flat-square?logo=matlab&color=353535) 
+![Bootstrap](https://img.shields.io/badge/Python-e16737?style=flat-square&logo=python&color=353535) 
+![Bootstrap](https://img.shields.io/badge/PyTorch-e16737?style=flat-square&logo=pytorch&color=353535) 
+![Bootstrap](https://img.shields.io/badge/Scikit%20Learn-e16737?style=flat-square&logo=scikit-learn&color=353535)
+![Bootstrap](https://img.shields.io/badge/Numpy-e16737?style=flat-square&logo=numpy&color=353535) 
+![Bootstrap](https://img.shields.io/badge/Matplotlib-e16737?style=flat-square&logo=matplotlib&color=353535)
+![Bootstrap](https://img.shields.io/badge/Pandas-e16737?style=flat-square&logo=pandas&color=353535) 
+![Bootstrap](https://img.shields.io/badge/Pyro-e16737?style=flat-square&logo=pyro&color=353535)
+![Bootstrap](https://img.shields.io/badge/flwr-e16737?style=flat-square&logo=flwr&color=353535)
+![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
+
+## 💻 General Stats:
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
   &nbsp;
