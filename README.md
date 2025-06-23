@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Some repositories related to my Ph.D. papers are private, and access can be provided upon request 😀
+Some repositories related to my PhD papers are private, and access can be provided upon request 😀
 
 ## ⚙️ Tech Stack:
 
