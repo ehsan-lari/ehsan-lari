@@ -14,6 +14,7 @@ Some repositories related to my Ph.D. papers are private, and access can be prov
 ![Bootstrap](https://img.shields.io/badge/Pyro-e16737?style=flat-square&logo=pyro&color=353535)
 ![Bootstrap](https://img.shields.io/badge/flwr-e16737?style=flat-square&logo=flwr&color=353535)
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
+![Bootstrap](https://img.shields.io/badge/statsmodels-e16737?style=flat-square&logo=statsmodels&color=353535)
 
 ## 💻 General Stats:
   <p align="center">
