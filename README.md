@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Some repositories related to my PhD papers are private, and access can be provided upon request 😀
 
@@ -16,14 +16,23 @@ Some repositories related to my PhD papers are private, and access can be provid
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/statsmodels-e16737?style=flat-square&logo=statsmodels&color=353535)
 
-## 💻 General Stats:
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
+## 💻 GitHub Stats:
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=dark&show_icons=true&count_private=true&hide_rank=true"
+    height="225"
+  />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&layout=compact&show_icons=true" width="355" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&layout=donut&show_icons=true"
+    height="225"
+  />
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{ehsan-lari}/count.svg)
+ <div align="center">
+  <img src="https://profile-counter.glitch.me/{ehsan-lari}/count.svg" alt="Visitor Count" />
+</div>
 
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
