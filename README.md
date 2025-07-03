@@ -21,12 +21,12 @@ Some repositories related to my PhD papers are private, and access can be provid
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=dark&show_icons=true&count_private=true&hide_rank=true"
-    height="225"
+    height="200"
   />
   &nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&layout=donut&show_icons=true"
-    height="225"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&show_icons=true"
+    height="200"
   />
 </p>
 
