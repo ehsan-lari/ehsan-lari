@@ -23,6 +23,8 @@ Some repositories related to my PhD papers are private, and access can be provid
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=dark&layout=compact&show_icons=true" width="355" />
 </p>
 
+![Visitor Count](https://profile-counter.glitch.me/{ehsan-lari}/count.svg)
+
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
