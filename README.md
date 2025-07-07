@@ -31,7 +31,7 @@ Some repositories related to my PhD papers are private, and access can be provid
 </p>
 
  <div align="center">
-  <img src="https://profile-counter.glitch.me/{ehsan-lari}/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=ehsan-lari&style=for-the-badge" />
 </div>
 
 <!--
