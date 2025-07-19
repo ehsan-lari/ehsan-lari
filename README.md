@@ -11,6 +11,7 @@ Some repositories related to my PhD papers are private, and access can be provid
 ![Bootstrap](https://img.shields.io/badge/Numpy-e16737?style=flat-square&logo=numpy&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/Matplotlib-e16737?style=flat-square&logo=matplotlib&color=353535)
 ![Bootstrap](https://img.shields.io/badge/Pandas-e16737?style=flat-square&logo=pandas&color=353535) 
+![Bootstrap](https://img.shields.io/badge/SciPy-e16737?style=flat-square&logo=SciPy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/Pyro-e16737?style=flat-square&logo=pyro&color=353535)
 ![Bootstrap](https://img.shields.io/badge/flwr-e16737?style=flat-square&logo=flwr&color=353535)
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
