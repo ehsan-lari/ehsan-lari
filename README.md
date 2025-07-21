@@ -1,6 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Some repositories related to my PhD papers are private, and access can be provided upon request 😀
+<p style="text-align: justify;">Welcome to my GitHub! I'm a PhD candidate in statistical machine learning, passionate about problem-solving and creating value through data-driven solutions. Here, you'll find my projects, contributions, and experiments in machine learning. I love diving into new tech. Feel free to explore, collaborate, or reach out!</p> 
+<p style="text-align: justify;">P.S. Some repositories related to my PhD papers are private, and access can be provided upon request 😀</p> 
 
 ## ⚙️ Tech Stack:
 
