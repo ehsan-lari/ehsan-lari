@@ -36,6 +36,28 @@
   <img src="https://komarev.com/ghpvc/?username=ehsan-lari&style=for-the-badge" />
 </div>
 
+## Summary of Projects
+
+<div align="center">
+
+<table>
+  <tr align="center">
+    <th>Name</th>
+    <th>Why did I do it/doing it?</th>
+    <th>Used libraries</th>
+    <th>Subject</th>
+    <th>Repo Link</th>
+  </tr>
+  <tr align="center">
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+    <td>x</td>
+  </tr>
+</table>
+
+</div>
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
