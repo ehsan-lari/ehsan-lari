@@ -26,7 +26,7 @@
   <tr align="center">
     <th>Name</th>
     <th>Why did I do it/doing it?</th>
-    <th>Used libraries</th>
+    <th>Used Libraries</th>
     <th>Subject</th>
     <th>Repo Link</th>
   </tr>
