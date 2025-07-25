@@ -18,25 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/statsmodels-e16737?style=flat-square&logo=statsmodels&color=353535)
 
-## 💻 GitHub Stats:
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=transparent&show_icons=true&count_private=true&hide_rank=true"
-    height="200"
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=transparent&show_icons=true"
-    height="200"
-  />
-</p>
-
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehsan-lari&style=for-the-badge" />
-</div>
-
-## Summary of Projects
+## 🤓 Summary of Projects
 
 <div align="center">
 
@@ -57,6 +39,24 @@
   </tr>
 </table>
 
+</div>
+
+## 💻 GitHub Stats:
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ehsan-lari&theme=transparent&show_icons=true&count_private=true&hide_rank=true"
+    height="200"
+  />
+  &nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsan-lari&locale=en&theme=transparent&show_icons=true"
+    height="200"
+  />
+</p>
+
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ehsan-lari&style=for-the-badge" />
 </div>
 <!--
 **ehsan-lari/ehsan-lari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
