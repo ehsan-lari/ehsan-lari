@@ -3,7 +3,7 @@
 <p style="text-align: justify;">Welcome to my GitHub! I'm a PhD candidate in statistical machine learning, passionate about problem-solving and creating value through data-driven solutions. Here, you'll find my projects, contributions, and experiments in machine learning. I love diving into new tech. Feel free to explore, collaborate, or reach out!</p> 
 <p style="text-align: justify;">P.S. Some repositories related to my PhD papers are private, and access can be provided upon request 😀</p> 
 
-## ⚙️ Tech Stack:
+## 💻 Tech Stack:
 
 ![Bootstrap](https://img.shields.io/badge/MATLAB-e16737?style=flat-square?logo=matlab&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/Python-e16737?style=flat-square&logo=python&color=353535) 
@@ -41,7 +41,7 @@
 
 </div>
 
-## 💻 GitHub Stats:
+## 📢 GitHub Stats:
 
 <p align="center">
   <img 
