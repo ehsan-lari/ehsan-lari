@@ -24,7 +24,7 @@
 
 <table>
   <tr align="center">
-    <th>Name</th>
+    <th>Title</th>
     <th>Why did I do it/doing it?</th>
     <th>Used Libraries</th>
     <th>Subject</th>
