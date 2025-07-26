@@ -25,13 +25,11 @@
 <table>
   <tr align="center">
     <th>Title</th>
-    <th>Why did I do it/doing it?</th>
-    <th>Used Libraries</th>
     <th>Subject</th>
-    <th>Repo Link</th>
+    <th>Used Libraries</th>
+    <th>Why did I do it/doing it?</th>
   </tr>
   <tr align="center">
-    <td>x</td>
     <td>x</td>
     <td>x</td>
     <td>x</td>
