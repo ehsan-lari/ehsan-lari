@@ -18,6 +18,8 @@
 ![Bootstrap](https://img.shields.io/badge/flwr-e16737?style=flat-square&logo=flwr&color=353535)
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/statsmodels-e16737?style=flat-square&logo=statsmodels&color=353535)
+![Bootstrap](https://img.shields.io/badge/Docker-e16737?style=flat-square&logo=docker&color=353535)
+![Bootstrap](https://img.shields.io/badge/Kubernetes-e16737?style=flat-square&logo=kubernetes&color=353535)
 
 ## 🤓 Summary of Projects
 
