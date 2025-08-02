@@ -24,7 +24,7 @@
 ![Bootstrap](https://img.shields.io/badge/HuggingFace-e16737?style=flat-square&logo=huggingface&color=353535)
 ![Bootstrap](https://img.shields.io/badge/Databricks-e16737?style=flat-square&logo=databricks&color=353535)
 
-## 🤓 Summary of Projects
+## 🤓 Summary of Projects:
 
 <div align="center">
 
