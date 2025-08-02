@@ -5,7 +5,7 @@
 
 ## 👨🏽‍💻 Tech Stack:
 
-![Bootstrap](https://img.shields.io/badge/MATLAB-e16737?style=flat-square?logo=matlab&color=353535) 
+![Bootstrap](https://img.shields.io/badge/MATLAB-e16737?style=flat-square?logo=mathworks&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/Python-e16737?style=flat-square&logo=python&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/PyTorch-e16737?style=flat-square&logo=pytorch&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/Scikit%20Learn-e16737?style=flat-square&logo=scikit-learn&color=353535)
@@ -15,14 +15,14 @@
 ![Bootstrap](https://img.shields.io/badge/PostgreSQL-e16737?style=flat-square&logo=postgresql&color=353535)
 ![Bootstrap](https://img.shields.io/badge/SciPy-e16737?style=flat-square&logo=SciPy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/Pyro-e16737?style=flat-square&logo=pyro&color=353535)
-![Bootstrap](https://img.shields.io/badge/flwr-e16737?style=flat-square&logo=flwr&color=353535)
+![Bootstrap](https://img.shields.io/badge/Flower-e16737?style=flat-square&logo=flwr&color=353535)
 ![Bootstrap](https://img.shields.io/badge/DoWhy-e16737?style=flat-square&logo=dowhy&color=353535)
 ![Bootstrap](https://img.shields.io/badge/statsmodels-e16737?style=flat-square&logo=statsmodels&color=353535)
-![Bootstrap](https://img.shields.io/badge/Docker-e16737?style=flat-square&logo=docker&color=353535)
-![Bootstrap](https://img.shields.io/badge/Kubernetes-e16737?style=flat-square&logo=kubernetes&color=353535)
-![Bootstrap](https://img.shields.io/badge/Spark-e16737?style=flat-square&logo=apachespark&color=353535)
 ![Bootstrap](https://img.shields.io/badge/HuggingFace-e16737?style=flat-square&logo=huggingface&color=353535)
+![Bootstrap](https://img.shields.io/badge/Docker-e16737?style=flat-square&logo=docker&color=353535)
+![Bootstrap](https://img.shields.io/badge/Spark-e16737?style=flat-square&logo=apachespark&color=353535)
 ![Bootstrap](https://img.shields.io/badge/Databricks-e16737?style=flat-square&logo=databricks&color=353535)
+![Bootstrap](https://img.shields.io/badge/Kubernetes-e16737?style=flat-square&logo=kubernetes&color=353535)
 
 ## 🤓 Summary of Projects:
 
