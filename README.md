@@ -1,4 +1,4 @@
-# ## Hi there, I'm Ehsan/Ethan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Ehsan/Ethan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <p style="text-align: justify;">Welcome to my GitHub! I have a PhD in signal processing and statistical machine learning from NTNU in Trondheim, Norway. I am also passionate about problem-solving and creating value through model-driven/data-driven solutions. Here, you'll find my projects, contributions, and experiments in machine learning. I love diving into new tech. Feel free to explore, collaborate, or reach out!</p> 
 <p style="text-align: justify;">P.S. Some repositories related to my PhD papers are private, and access can be provided upon request 😀</p> 
